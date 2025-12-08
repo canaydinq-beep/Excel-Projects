@@ -11,13 +11,13 @@ The original dataset contained unstructured information regarding various job li
 
 Key analyses performed in this project include:
 
-### Location Analysis: Examining the geographical distribution of job postings.
+#### Location Analysis: Examining the geographical distribution of job postings.
 
-### Company Size Analysis: Understanding hiring trends based on the scale of the organizations.
+#### Company Size Analysis: Understanding hiring trends based on the scale of the organizations.
 
-### Job Title Analysis: Identifying the most in-demand job roles.
+#### Job Title Analysis: Identifying the most in-demand job roles.
 
-### Salary & Demand Aggregation: A detailed breakdown calculating the average salary and total job counts.
+#### Salary & Demand Aggregation: A detailed breakdown calculating the average salary and total job counts.
 
 
 ## Query Dependencies
@@ -40,15 +40,15 @@ AnalyzedDataset.xlsx: The final Excel file containing the cleaned data model and
 
 The Power Query logic has been exported into separate .m files for transparency:
 
-### data_cleaning_codes.m**: The main script for cleaning inconsistencies and standardizing data types.
+#### data_cleaning_codes.m: The main script for cleaning inconsistencies and standardizing data types.
 
-### salary_by_location_codes.m**: Logic for aggregating salary data based on geographical location.
+#### salary_by_location_codes.m: Logic for aggregating salary data based on geographical location.
 
-### salary_by_role_codes.m**: Logic for grouping data by job titles.
+#### salary_by_role_codes.m: Logic for grouping data by job titles.
 
-### salary_by_size_codes.m**: Logic for analyzing trends based on company size.
+#### salary_by_size_codes.m: Logic for analyzing trends based on company size.
 
-### salary_by_size_and_role_codes.m**: Advanced grouping script that combines both company size and job role for detailed insights.
+#### salary_by_size_and_role_codes.m: Advanced grouping script that combines both company size and job role for detailed insights.
 
 
 ## Tools Used
