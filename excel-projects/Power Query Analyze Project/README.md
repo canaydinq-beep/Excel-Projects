@@ -40,6 +40,7 @@ In this project, queries are linked in a chain structure. The data flow diagram 
 
 ![Query Dependencies Diagram](Dependencies.png)
 
+
 ---
 
 ## 🛠 How to Use
