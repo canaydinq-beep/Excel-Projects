@@ -9,4 +9,13 @@ This repository serves as a showcase of my technical improvement journey, featur
 - Power BI
 - SQL (MySQL, PostgreSQL, MSSQL)
 - Python
+- MS Azure
+- n8n
+- Google Appsheet
+
+## 📫 Connect with Me
+
+- LinkedIn : https://www.linkedin.com/in/muhammedcanaydin/
+
+- Email : muhammedcanaydin41@gmail.com
   
