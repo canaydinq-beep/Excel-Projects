@@ -1,6 +1,6 @@
 # Data Jobs Dashboard
 
-![Dashboard Page 1](Dashboard%20Project%201.png)
+![Dashboard Page 1](Dashboard%20Image%201.png)
 
 [View interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODMwNTZkMmQtYjgzMC00MmY3LThhOWUtY2FmMzRiNTIzNTI2IiwidCI6ImRhOWUwODFiLTk1NWMtNGUzNS05YjAzLWM4MzY0YmRiMjI3MCIsImMiOjl9)
 
@@ -42,6 +42,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Conclusion
 
 This dashboard showcases how Power BI can transform raw job postings data into a powerful tool for career anaylsis. It allows users to slice, filter, and drill through data to make decisions about their career paths.
+
 
 
 
