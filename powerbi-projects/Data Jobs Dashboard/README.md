@@ -29,19 +29,20 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Page 1 : High-Level Market View
 
-![Dashboard Page 1](/images/Dashboard%20Image%201.png)
+![Dashboard Page 1](Dashboard%20Image%201.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you quick understanding of what's happening in the job market at a glance.
 
 ### Page 2 : Job Title Drill Through
 
-![Dashboard Page 2](/images/Dashboard%20Image%202.png)
+![Dashboard Page 1](Dashboard%20Image%202.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
 ## Conclusion
 
 This dashboard showcases how Power BI can transform raw job postings data into a powerful tool for career anaylsis. It allows users to slice, filter, and drill through data to make decisions about their career paths.
+
 
 
 
