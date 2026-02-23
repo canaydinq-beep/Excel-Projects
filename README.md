@@ -1,24 +1,49 @@
-# 📊 Data Science & Analytics Portfolio
+# Data Jobs Dashboard
 
-Welcome to my portfolio! This repository serves as a centralized collection of my projects in **Data Science, Data Analytics, and Machine Learning**.
+![Dashboard Page 1](/images/Dashboard%20Image%201.png)
 
-As an **Industrial Engineering student**, I am passionate about optimizing processes and solving complex problems using data-driven approaches. My primary focus lies in the intersection of engineering and data, with a strong interest in the **Finance and Banking** sectors.
+[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODMwNTZkMmQtYjgzMC00MmY3LThhOWUtY2FmMzRiNTIzNTI2IiwidCI6ImRhOWUwODFiLTk1NWMtNGUzNS05YjAzLWM4MzY0YmRiMjI3MCIsImMiOjl9)
 
-## 🚀 About Me
-I enjoy uncovering patterns in data and translating them into actionable insights. This repository documents my learning journey and practical applications of various analytical tools.
+## Introduction
 
-* **🎓 Background:** Industrial Engineering Student
-* **💼 Interests:** Data Analysis, Financial Modelling, Machine Learning, Process Optimization
-* **🛠 Tech Stack:**
-    * **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL
-    * **Data Tools:** Microsoft Excel (Advanced), Power BI
-    * **Version Control:** Git & GitHub
+This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: Information about the data market is scattered and hard to grasp. Using *a real-word dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy to use interface to explore market trends and compensation.
 
-## 📂 Repository Structure
-This repository is organized into separate folders for each project. Inside each folder, you will find:
-* The source code (Python scripts, Jupyter Notebooks)
-* Datasets (or links to them)
-* A specific `README.md` explaining the project in detail.
 
----
-*Feel free to explore the code and reach out if you have any questions or collaboration ideas!*
+
+## Skills Showcased
+
+-   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
+-   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
+-   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
+-   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
+-   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
+-   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
+-   **🖱️ Interactive Reporting:**
+    -   **Slicers:** To dynamically filter the report by Job Title.
+    -   **Buttons & Bookmarks:** To create a seamless navigation experience.
+    -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+
+
+
+## Dashboard Overview
+
+### Page 1 : High-Level Market View
+
+![Dashboard Page 1](/images/Dashboard%20Image%201.png)
+
+This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you quick understanding of what's happening in the job market at a glance.
+
+### Page 2 : Job Title Drill Through
+
+![Dashboard Page 2](/images/Dashboard%20Image%202.png)
+
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+## Conclusion
+
+This dashboard showcases how Power BI can transform raw job postings data into a powerful tool for career anaylsis. It allows users to slice, filter, and drill through data to make decisions about their career paths.
+
+
+
+
+
